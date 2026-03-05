@@ -47,6 +47,8 @@ const SkillsSection = () => {
                   ? "bg-primary text-primary-foreground"
                   : "bg-card border border-border text-foreground/60 hover:text-primary hover:border-primary/50"
               )}
+
+              
             >
               {category}
             </button>
